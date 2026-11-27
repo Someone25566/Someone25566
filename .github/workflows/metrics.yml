@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Run workflow manually
   workflow_dispatch:
-  # Run on push
   push: {branches: ["main"]}
 
 jobs:
@@ -15,24 +12,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Required: GitHub token (create a PAT and add it as METRICS_TOKEN secret)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Output
           filename: github-metrics.svg
           output_action: commit
 
-          # Base content
-          base: header, activity, community, repositories, metadata
+          # Cleaner base
+          base: header, activity, community, repositories
 
-          # Plugins
+          # Better visual plugins
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_colors: github
+          plugin_languages_details: percentage
 
           plugin_habits: yes
           plugin_habits_from: 200
@@ -41,27 +37,25 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 4
           plugin_activity_days: 14
+          plugin_activity_filter: all
 
           plugin_repositories: yes
-          plugin_repositories_limit: 4
-
-          plugin_followup: yes
-
-          plugin_people: yes
-          plugin_people_limit: 12
-          plugin_people_types: followers, following
+          plugin_repositories_limit: 3
 
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_topics_limit: 18
+          plugin_topics_limit: 12
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
 
           plugin_notable: yes
 
-          # Timezone
+          # Style
           config_timezone: Africa/Cairo
+          config_display: large
+          config_padding: 0
