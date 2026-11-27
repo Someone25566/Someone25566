@@ -1,58 +1,88 @@
-```html
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&height=200&section=header&text=Youssef%20Sameh&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DESIGN%20%C2%B7%20ENGINEERING%20%C2%B7%20CREATIVE%20DIRECTION&descAlignY=60&descSize=14" width="100%" />
-
+<a href="https://github.com/Someone25566">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05080F,50:10264D,100:1F6FEB&text=YOUSSEF%20SAMEH&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DESIGNER%20%7C%20ENGINEER%20%7C%20CREATOR&descSize=16&descAlignY=58&animation=fadeIn&stroke=1F6FEB&strokeWidth=1" width="100%" />
+</a>
 <br/>
-
-### Building things that look good and work beautifully.
-
-**Graphic Designer · Android Developer · Full-Stack Developer · Director**
-
-<br/>
-
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Graphic+Designer+%26+Visual+Director;Android+%26+Full-Stack+Developer;Turning+Ideas+Into+Digital+Experiences;I+Speak+Code+And+Sometimes+On+Stage." alt="Typing SVG" />
+</a>
+<br/><br/>
 <a href="mailto:yossufsameh57@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/CONTACT%20ME-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Someone25566?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/Someone25566">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Someone25566&label=PROFILE%20VIEWS&color=1F6FEB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Someone25566&label=VISITORS&color=1F6FEB&style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a multidisciplinary creator and developer working at the intersection of **design, technology, and creative direction**.
+## ◈ NAVIGATION
 
-I enjoy transforming ideas into functional digital experiences — from visual identities and user interfaces to mobile applications and full-stack systems.
+[ABOUT](#-about-me)　·　[EXPERTISE](#-expertise)　·　[TECH STACK](#-technology-stack)　·　[PROJECTS](#-featured-projects)　·　[STATS](#-github-analytics)　·　[CONTACT](#-lets-connect)
 
-My approach combines creative thinking with technical execution, focusing on products that are visually refined, intuitive, and built to scale.
-
-- **Design:** Graphic Design, Visual Identity, Art Direction.
-- **Development:** Android Applications, Full-Stack Systems, API Development.
-- **Engineering:** Database Architecture, Backend Systems, Application Infrastructure.
-- **Creative:** Video Direction, Motion Design, Digital Experiences.
-
-> I speak code and sometimes on stage.
+</div>
 
 ---
 
-## Core Expertise
+## ◈ ABOUT ME
 
-<table>
+I'm **Youssef Sameh**, a multidisciplinary creator combining creative vision with technical engineering.
+
+My work lives between two worlds:
+
+- **Creative World:** Graphic Design, Visual Identity, Composition and Visual Direction.
+- **Engineering World:** Android Development, Full-Stack Applications, Backend Systems and Database Architecture.
+
+I believe great digital products should not only work perfectly — they should also feel right, look exceptional, and solve real problems.
+
+> "I speak code and sometimes on stage."
+
+<details>
+<summary><b>More about my philosophy</b> ↗</summary>
+
+<br/>
+
+I approach every project from both a designer's and an engineer's perspective.
+
+I care about:
+
+- Clean and maintainable architecture.
+- Thoughtful user experiences.
+- Strong visual identities.
+- Scalable and reliable systems.
+- Turning concepts into functional products.
+
+**My goal:** Build meaningful things, not just write code.
+
+</details>
+
+---
+
+## ◈ EXPERTISE
+
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### Creative & Design
+<div align="center">
+
+### CREATIVE
+
+<img src="https://img.shields.io/badge/DESIGN-1F6FEB?style=flat-square" />
+
+</div>
 
 - Graphic Design
 - Visual Direction
@@ -65,7 +95,13 @@ My approach combines creative thinking with technical execution, focusing on pro
 </td>
 <td width="33%" valign="top">
 
-### Mobile & Development
+<div align="center">
+
+### DEVELOPMENT
+
+<img src="https://img.shields.io/badge/ENGINEERING-1F6FEB?style=flat-square" />
+
+</div>
 
 - Android Development
 - Kotlin / Java
@@ -78,14 +114,20 @@ My approach combines creative thinking with technical execution, focusing on pro
 </td>
 <td width="33%" valign="top">
 
-### Backend & Infrastructure
+<div align="center">
+
+### INFRASTRUCTURE
+
+<img src="https://img.shields.io/badge/BACKEND-1F6FEB?style=flat-square" />
+
+</div>
 
 - PostgreSQL
 - Supabase
-- Database Design
 - Node.js
-- Git & GitHub
-- Linux
+- Flask
+- Database Design
+- Git & Linux
 - Backend Architecture
 
 </td>
@@ -94,73 +136,124 @@ My approach combines creative thinking with technical execution, focusing on pro
 
 ---
 
-## Technology Stack
+## ◈ TECHNOLOGY STACK
 
 <div align="center">
 
-### Mobile & Programming
+### MOBILE & PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,python,typescript,js" />
 
-### Backend & Infrastructure
+<br/><br/>
+
+### BACKEND & INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,nodejs,flask,git,github,linux" />
 
-### Creative Tools
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />
-
 </div>
+
+<details>
+<summary><b>View technology categories</b></summary>
+
+| Category | Technologies |
+|:---|:---|
+| Mobile | Android, Kotlin, Java, Flutter |
+| Programming | Python, TypeScript, JavaScript |
+| Backend | Flask, Node.js, REST APIs |
+| Database | PostgreSQL, Supabase |
+| Infrastructure | Git, GitHub, Linux |
+
+</details>
 
 ---
 
-## Selected Projects
+## ◈ FEATURED PROJECTS
 
 <div align="center">
 
-### Kenzy — كنزي
-
-**A Digital Platform for the Church Community**
-
-A project focused on building a cohesive digital experience, combining mobile application development, backend architecture, database management, and user experience.
-
-**Focus Areas**
-
-`Mobile Development` `Backend` `Database Design` `UI/UX`
-
----
-
-### More Projects Coming Soon
-
-Additional projects and technical experiments will be featured here as they become publicly available.
+<a href="https://github.com/Someone25566?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
+### 01 / KENZY — كنزي
+
+**Digital Church Community Platform**
+
+A digital product focused on building a modern and cohesive church community experience.
+
+**Focus:**
+- Mobile Application Development
+- Backend Architecture
+- Database Management
+- User Experience
+
+<details>
+<summary><b>Technical overview</b></summary>
+
+`Mobile Development` `Python` `Flask` `SQLite` `WebView`
+
+</details>
+
+[Explore GitHub Repositories →](https://github.com/Someone25566?tab=repositories)
+
 ---
 
-## GitHub Analytics
+### 02 / MORE PROJECTS
+
+More projects, experiments, and engineering work will be showcased here.
+
+[Explore all projects →](https://github.com/Someone25566?tab=repositories)
+
+---
+
+## ◈ GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Someone25566&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/Someone25566">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Someone25566&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someone25566&layout=compact&theme=github_dark&hide_border=true" />
+<a href="https://github.com/Someone25566">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someone25566&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Someone25566&theme=github-dark-blue&hide_border=true" />
+<a href="https://github.com/Someone25566">
+<img width="85%" src="https://streak-stats.demolab.com?user=Someone25566&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" />
+</a>
 
 </div>
 
 ---
 
+## ◈ CONTRIBUTION ACTIVITY
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&height=100&section=footer" width="100%" />
-
-**Thanks for stopping by.**
-
-*Design with intention. Build with precision.*
+<a href="https://github.com/Someone25566">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Someone25566&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</a>
 
 </div>
-```
+
+---
+
+## ◈ LET'S CONNECT
+<div align="center">
+**Have an idea? Let's build something extraordinary.**
+<br/>
+<a href="mailto:yossufsameh57@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Someone25566">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/><br/>
+<sub>DESIGNED WITH VISION · BUILT WITH PRECISION</sub>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:10264D,100:05080F&height=120&section=footer" width="100%" />
+</div>
