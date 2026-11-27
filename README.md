@@ -1,8 +1,10 @@
 <div align="center">
 
-### Hey, I'm Someone25566 👋
+<img src="https://avatars.githubusercontent.com/u/173307435?v=4" width="120" style="border-radius: 50%;" alt="Youssef Sameh"/>
 
-Building cool stuff on GitHub.
+### Youssef Sameh
+
+Building cool stuff · Always learning
 
 </div>
 
@@ -14,6 +16,6 @@ Building cool stuff on GitHub.
 
 <div align="center">
 
-**Thanks for stopping by**
+**Thanks for visiting**
 
 </div>
