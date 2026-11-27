@@ -105,7 +105,6 @@ I care about:
 
 - Android Development
 - Kotlin / Java
-- Flutter
 - Python
 - TypeScript
 - REST APIs
@@ -127,7 +126,6 @@ I care about:
 - Node.js
 - Flask
 - Database Design
-- Git & Linux
 - Backend Architecture
 
 </td>
