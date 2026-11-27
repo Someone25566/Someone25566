@@ -1,73 +1,77 @@
 <div align="center">
 
-  <!-- Banner / Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Sameh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20cool%20stuff%20%C2%B7%20Always%20learning&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&customColorList=0,2,4&height=175&section=header&text=Youssef%20Sameh&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Graphic%20Designer%20%C2%B7%20Android%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Director&descAlignY=58&descSize=15" width="100%" />
 
-  <!-- Social & Contact Badges -->
   <p>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:yossufsameh57@gmail.com">
+      <img src="https://img.shields.io/badge/Email-yossufsameh57%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/your-username" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
     </a>
-    <a href="https://your-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
     </a>
   </p>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=1F6FEB&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## Overview
 
-- 🔭 **Currently working on:** Full-stack mobile & web applications and scalable backend architectures.
-- 🌱 **Always learning:** New technologies, system design, and AI integrations.
-- 💡 **Passionate about:** Turning complex ideas into clean, efficient, and user-friendly products.
-- ⚡ **Fun fact:** I believe the best code is the one that solves real problems simply.
+Multidisciplinary creator and engineer bridging **Visual Direction & Graphic Design** with **Android Engineering & Full-Stack Development**. Focused on building cohesive digital products, intuitive mobile experiences, and reliable backend systems with clear creative direction from concept to execution.
+
+- **Creative Direction & Design:** Visual identity, composition, brand aesthetics, and creative direction.
+- **Android & Full-Stack Engineering:** Native/cross-platform mobile apps, APIs, databases, and end-to-end web/application systems.
+- **Core Mindset:** Combining aesthetic precision with clean, scalable engineering.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Core Capabilities
 
 <div align="center">
 
-  **Languages & Frameworks**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+| Creative & Direction | Mobile & Full-Stack | Backend & Infrastructure |
+| :--- | :--- | :--- |
+| Graphic Design | Android Development | PostgreSQL |
+| Visual Direction | Kotlin / Java / Flutter | Supabase |
+| Brand & UI Aesthetics | REST & Serverless APIs | Python / Node.js |
+| Video & Motion Direction | Modern Web & Frontend | Git & Linux |
 
-  **Backend, Databases & Cloud**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
-  **Tools & AI**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
+
+<div align="center">
+
+  ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-1F2937?style=flat-square)
+  ![Creative Direction](https://img.shields.io/badge/Creative%20Direction-1F2937?style=flat-square)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFFFFF)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=FFFFFF)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+  ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## Selected Work
 
-| Project | Description | Tech Stack |
+| Project | Role & Focus | Stack |
 | :--- | :--- | :--- |
-| **[Kenzy](https://github.com/YOUR_GITHUB_USERNAME)** | Mobile application with a robust serverless backend, real-time database, and edge functions. | `Flutter` `Supabase` `PostgreSQL` `Python` |
-| **[Project Two](https://github.com/YOUR_GITHUB_USERNAME)** | Add a brief, punchy description of another project you're proud of. | `React` `Node.js` `TypeScript` |
+| **[Kenzy](https://github.com/YOUR_GITHUB_USERNAME)** | Mobile application architecture, backend APIs, database design, and product direction. | Mobile, Backend, PostgreSQL, Edge Functions |
+| **[Project Title](https://github.com/YOUR_GITHUB_USERNAME)** | Full-stack application or visual/creative system with end-to-end implementation. | Full-Stack, UI/UX, Cloud |
 
 ---
 
-### 📊 GitHub Metrics
+## Activity & Metrics
 
 <div align="center">
 
@@ -75,8 +79,7 @@
 
   <br/>
 
-  <!-- GitHub Streak Stats (Replace YOUR_GITHUB_USERNAME) -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -84,9 +87,8 @@
 
 <div align="center">
 
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&customColorList=0,2,4&height=90&section=footer" width="100%" />
 
-  **Thanks for visiting! Feel free to explore my repositories and connect.** ✨
+  **Thanks for visiting.**
 
 </div>
