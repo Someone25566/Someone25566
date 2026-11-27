@@ -1,11 +1,19 @@
 <div align="center">
 
-### Hi there 👋
+### Hey, I'm Someone25566 👋
 
-I'm **Someone25566**
+Building cool stuff on GitHub.
 
 </div>
 
 ---
 
 ![Metrics](./github-metrics.svg)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by**
+
+</div>
